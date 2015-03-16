@@ -1,0 +1,23 @@
+http://blog.sina.com.cn/s/blog_7d3760bf0100rdvz.html
+
+ Java Card开发常用的包（整理）
+http://blog.csdn.net/acstech/article/details/4789119
+
+文件系统
+MF相当于根目录
+DF相当于子目录，不可建立子目录
+EF文件 （分为安全基本文件和工作基本文件）
+
+基本文件分为：
+1.二进制文件
+2.线性定长记录文件
+3.线性变长记录文件
+4.循环定长记录文件
+
+http://blog.csdn.net/acstech/article/details/4830005
+
+脱机数据认证的原理
+http://blog.csdn.net/acstech/article/details/5474788
+
+基于Java+Card的金融多应用IC卡原型系统设计与实现
+http://www.docin.com/p-65206548.html

@@ -1,0 +1,2 @@
+请求：CLA指令类型 INS指令代码 P1参数1 P2参数2 Lc指明CommandData的数据长度 CommandData Le指明预期响应数据的最大字节数
+响应：响应数据（最大长度为Le指明的值）SW1 SW2命令处理状态（比如0x90 0x00表示成功）
