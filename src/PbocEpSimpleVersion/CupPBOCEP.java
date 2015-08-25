@@ -51,8 +51,8 @@ public class CupPBOCEP extends javacard.framework.Applet
         bPersoed = false;
         apduin = new tjuapdu();
 
-        pinOwner = new tPIN();
-        pinUnBlock = new tPIN();
+        pinOwner = new tjPIN();
+        pinUnBlock = new tjPIN();
         bFSReady = false;
         bAppBlocked = false;
         bCardBlocked = false;
